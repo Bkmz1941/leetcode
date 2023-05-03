@@ -3,7 +3,7 @@ package tasks;
 import java.util.Stack;
 
 /**
- * <h2>Task number is 20</h2>
+ * <h2>20. Valid parentheses</h2>
  * <p>
  * Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
  * determine if the input string is valid
